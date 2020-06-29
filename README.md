@@ -5,11 +5,10 @@ LoL RESUME. is an iOS app that displays statistics about all Riot Games using th
 ## Screenshots
 
 <p float="left" align="center">
-    <img src="./README-IMAGES/screenshot-search.jpg" width="288" height="625">
-    <img src="./README-IMAGES/screenshot-resume.jpg" width="288" height="625">
-    <img src="./README-IMAGES/screenshot-profile.jpg" width="288" height="625">
-    <img src="./README-IMAGES/screenshot-match_history.jpg" width="288" height="625">
-    <img src="./README-IMAGES/screenshot-history.jpg" width="288" height="625">
+    <img src="./README-IMAGES/screenshot-resume.png" width="288" height="513">
+    <img src="./README-IMAGES/screenshot-match_history_lol.png" width="288" height="513">
+    <img src="./README-IMAGES/screenshot-match_history_tft.png" width="288" height="513">
+    <img src="./README-IMAGES/screenshot-profile.png" width="288" height="513">
 </p>
 
 ## License
