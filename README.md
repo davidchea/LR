@@ -1,6 +1,6 @@
 # LoL RESUME.
 
-LoL RESUME. is an iOS app that displays statistics about all Riot Games using the resume concept in real life when we have to make one in order to get a job.
+LoL RESUME. is an iOS app that displays statistics for a given player about all Riot Games.
 
 ## Screenshots
 
