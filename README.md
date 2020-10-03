@@ -9,6 +9,7 @@ LoL RESUME. is an iOS app that displays statistics for a given player about all 
     <img src="./README-IMAGES/screenshot-match_history_lol.png" width="285" height="457">
     <img src="./README-IMAGES/screenshot-match_history_tft.png" width="285" height="457">
     <img src="./README-IMAGES/screenshot-profile.png" width="285" height="457">
+    <img src="./README-IMAGES/screenshot-charts.png" width="285" height="457">
 </p>
 
 ## License
